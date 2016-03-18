@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Forked from https://www.github.com/BVLC/caffe master branch in 2016/02/04 . Next update time may be around 2016/05/01 .
 
 **Good News:** Microsoft has created a repository of caffe windows version in https://github.com/Microsoft/caffe . Their solution may be more flexible and maintainable. I suggest all of you to try it.
@@ -72,3 +73,7 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+=======
+# Caffe
+Caffe for matlab.
+>>>>>>> e68972a3e4e00b169677fa657eaea24c8baa18a0
